@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"br",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/oswald/Documents/cena/app/Http/Controllers/Auth/LoginController.php",
+		"/home/oswald/Documents/cena/app/Http/Middleware/IsAdminCentre.php",
+		"/home/oswald/Documents/cena/resources/views/cena/config.blade.php",
+		"/home/oswald/Documents/cena/database/seeds/AllowsTableSeeder.php",
+		"/home/oswald/Documents/cena/app/Http/Middleware/IsAdminBureau.php",
+		"/home/oswald/Documents/cena/resources/views/wait.blade.php",
+		"/home/oswald/Documents/cena/routes/web.php",
+		"/home/oswald/Documents/fichier.html",
+		"/home/oswald/Documents/cena/resources/views/cena/general.blade.php",
+		"/home/oswald/Documents/cena/app/Http/Controllers/ResultatController.php",
+		"/home/oswald/Documents/cena/app/Http/Controllers/AdminCenaController.php",
+		"/home/oswald/Documents/cena/resources/views/cena/communal.blade.php",
+		"/home/oswald/Documents/cena/resources/views/cena/liste.blade.php",
+		"/home/oswald/Documents/cena/resources/views/cena/adminCena.blade.php",
+		"/home/oswald/Documents/cena/resources/views/layouts/master.blade.php",
+		"/home/oswald/Documents/cena/app/Allow.php",
+		"/home/oswald/Documents/cena/database/migrations/2018_09_07_000042_create_communes_table.php",
+		"/home/oswald/Documents/cena/database/migrations/2018_10_16_123617_create_allows_table.php",
+		"/home/oswald/Bureau/form_election_dependances/form_election.html",
+		"/home/oswald/cena/public/WeBuild/assets/css/style.css",
+		"/home/oswald/harry/Test.java",
+		"/home/oswald/.config/sublime-text-3/Packages/Javatar/Default (Linux).sublime-keymap",
+		"/home/oswald/cena/.env",
+		"/home/oswald/cena/config/app.php",
+		"/home/oswald/cena/routes/web.php",
+		"/home/oswald/Documents/zeproJs/traitement.php",
+		"/home/oswald/cena/public/assets/js/dataTables/jquery.dataTables.js",
+		"/home/oswald/cena/vendor/consoletvs/charts/src/Views/chartjs/container.blade.php",
+		"/home/oswald/cena/resources/views/layouts/centre.blade.php",
+		"/home/oswald/cena/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/oswald/cena/resources/views/wait.blade.php",
+		"/home/oswald/cena/resources/views/cena/adminCena.blade.php",
+		"/home/oswald/cena/app/Http/Controllers/Auth/LoginController.php",
+		"/home/oswald/cena/public/js/larails.js",
+		"/home/oswald/cena/app/User.php",
+		"/home/oswald/cena/resources/views/layouts/bv.blade.php",
+		"/home/oswald/cena/resources/views/layouts/master.blade.php",
+		"/home/oswald/cena/database/migrations/2018_10_16_123617_create_allows_table.php",
+		"/home/oswald/cena/app/Http/Controllers/AdminCenaController.php",
+		"/home/oswald/cena/app/Http/Middleware/IsAdminCentre.php",
+		"/home/oswald/cena/app/Http/Middleware/IsAdminBureau.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/home/oswald/cena/database/seeds/DatabaseSeeder.php",
+		"/home/oswald/cena/database/seeds/AllowsTableSeeder.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php",
+		"/home/oswald/cena/public/js/html5shiv.min.js",
+		"/home/oswald/cena/public/js/respond.min.js",
+		"/home/oswald/cena/public/js/lumino.glyphs.js",
+		"/home/oswald/cena/public/js/jquery-1.11.1.min.js",
+		"/home/oswald/cena/public/js/easypiechart.js",
+		"/home/oswald/cena/public/js/bootstrap.min.js",
+		"/home/oswald/cena/public/js/bootstrap-datepicker.js",
+		"/home/oswald/cena/resources/views/cena/liste.blade.php",
+		"/home/oswald/cena/resources/views/centre/rapports.blade.php",
+		"/home/oswald/cena/resources/views/BV/rapport.blade.php",
+		"/home/oswald/cena/database/seeds/UsersTableSeeder.php",
+		"/home/oswald/cena/resources/views/cena/general.blade.php",
+		"/home/oswald/cena/resources/views/cena/profil.blade.php",
+		"/home/oswald/cena/resources/views/centre/resultatBureau.blade.php",
+		"/media/oswald/UBUNTU 17_1/index.html",
+		"/home/oswald/cena/app/Http/Controllers/BureauController.php",
+		"/home/oswald/cena/resources/views/BV/envoie.blade.php",
+		"/home/oswald/cena/app/helpers.php",
+		"/home/oswald/cena/app/Http/Controllers/RapportController.php",
+		"/home/oswald/cena/resources/views/vendor/flashy/message.blade.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/home/oswald/cena/database/migrations/2018_09_09_185836_create_resultats_table.php",
+		"/home/oswald/cena/app/Resultat.php",
+		"/home/oswald/cena/app/Http/Controllers/CentreController.php",
+		"/home/oswald/cena/composer.json",
+		"/home/oswald/Documents/newpage/config_compte.html",
+		"/home/oswald/harry/affiche_agent.html",
+		"/home/oswald/harry/envoyer_rapport.html",
+		"/home/oswald/cena/app/Http/Middleware/IsAdminCena.php",
+		"/home/oswald/cena/app/Http/Kernel.php",
+		"/home/oswald/cena/resources/views/cena/rapports.blade.php",
+		"/home/oswald/cena/app/Rapport.php",
+		"/home/oswald/harry/voir_rapport.html",
+		"/home/oswald/cena/config/filesystems.php",
+		"/home/oswald/cena/database/migrations/2018_09_10_091815_create_admin_arrondissements_table.php",
+		"/home/oswald/cena/database/migrations/2018_09_10_091803_create_admin_centres_table.php",
+		"/home/oswald/cena/database/migrations/2018_09_10_091752_create_admin_bureaus_table.php",
+		"/home/oswald/cena/database/migrations/2018_09_10_091739_create_admin_cenas_table.php",
+		"/home/oswald/cena/database/migrations/2018_09_09_121650_create_role_user_table.php",
+		"/home/oswald/cena/resources/views/centre/acceuil.blade.php",
+		"/home/oswald/cena/app/Http/Controllers/ResultatController.php",
+		"/home/oswald/cena/public/accueil/vendor/bootstrap/css/bootstrap.css",
+		"/media/oswald/Système/wamp64/www/gestJury/app/Http/Controllers/ConstituesController.php",
+		"/media/oswald/Système/wamp64/www/gestJury/package.json",
+		"/home/oswald/cena/app/AdminBureau.php",
+		"/home/oswald/cena/app/AdminCentre.php",
+		"/home/oswald/cena/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/oswald/cena/app/Mail/CodeMail.php",
+		"/home/oswald/cena/resources/views/cena/inscription.blade.php",
+		"/home/oswald/cena/resources/views/emails/messages/code.blade.php",
+		"/home/oswald/cena/database/migrations/2018_09_18_062014_create_codes_table.php",
+		"/home/oswald/cena/database/migrations/2018_09_07_005204_create_centre_votes_table.php",
+		"/home/oswald/cena/database/migrations/2018_09_07_005223_create_bureau_votes_table.php",
+		"/home/oswald/cena/database/seeds/RolesTableSeeder.php",
+		"/home/oswald/.config/sublime-text-3/Packages/PhpNamespace/Base File.sublime-settings",
+		"/home/oswald/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/oswald/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/oswald/cena/resources/views/auth/register.blade.php",
+		"/home/oswald/cena/app/Providers/AppServiceProvider.php",
+		"/home/oswald/cena/resources/views/auth/login.blade.php",
+		"/home/oswald/cena/resources/views/layouts/app.blade.php",
+		"/home/oswald/cena/resources/views/home.blade.php",
+		"/home/oswald/.config/sublime-text-3/Packages/User/PHP Companion.sublime-settings",
+		"/home/oswald/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/home/oswald/.config/sublime-text-3/Packages/PhpNamespace/Default (Linux).sublime-keymap",
+		"/home/oswald/harry/signup.html",
+		"/home/oswald/harry/connexion.html",
+		"/home/oswald/cena/database/seeds/AdminCentresTableSeeder.php",
+		"/home/oswald/cena/database/seeds/AdminArrondissementsTableSeeder.php",
+		"/home/oswald/cena/database/seeds/RoleUserTableSeeder.php",
+		"/home/oswald/cena/app/Role.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php",
+		"/home/oswald/cena/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php",
+		"/media/oswald/Système/wamp64/www/gestJury/database/migrations/2018_04_02_154756_create_role_user_table.php",
+		"/media/oswald/Système/wamp64/www/gestJury/app/User.php",
+		"/media/oswald/Système/wamp64/www/gestJury/resources/views/administration/code.blade.php",
+		"/media/oswald/Système/wamp64/www/gestJury/resources/views/cd/constitution_jury.blade.php",
+		"/home/oswald/uTorrentPartFile_10860DCE.dat",
+		"/home/oswald/TD4/exo1.cc",
+		"/media/oswald/Données/cours git3-1/Langage C++/TD04/surfaces1.cc",
+		"/home/oswald/Téléchargements/FrikSchool/web/liste_matiere.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ResultatGeneralChart.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
